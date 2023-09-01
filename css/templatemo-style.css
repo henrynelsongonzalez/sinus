@@ -87,6 +87,11 @@ h2 {
     background-repeat: no-repeat;
 }
 
+.tm-row {
+    max-width: 980px;
+    justify-content: space-between;
+}
+
 #tm-nav {
     z-index: 1000;
 }
